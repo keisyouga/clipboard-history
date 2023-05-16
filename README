@@ -1,0 +1,13 @@
+watch clipboard string using tcl/tk
+================
+
+selection-history.tcl
+----------------
+
+use `selection get' to retrieve clipboard string
+
+
+clipboard-history.tcl
+----------------
+
+use `clipboard get' to retrieve clipboard string
